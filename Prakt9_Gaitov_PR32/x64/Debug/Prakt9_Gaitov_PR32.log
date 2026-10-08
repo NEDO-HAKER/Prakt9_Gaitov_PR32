@@ -1,0 +1,6 @@
+﻿  Prakt9_Gaitov_PR32.cpp
+C:\Users\st310-11\Documents\System\Prakt9_Gaitov_PR32\Prakt9_Gaitov_PR32\Prakt9_Gaitov_PR32.cpp(38,35): warning C4101: e: неиспользованная локальная переменная
+C:\Users\st310-11\Documents\System\Prakt9_Gaitov_PR32\Prakt9_Gaitov_PR32\Prakt9_Gaitov_PR32.cpp(97,34): warning C4101: e: неиспользованная локальная переменная
+C:\Users\st310-11\Documents\System\Prakt9_Gaitov_PR32\Prakt9_Gaitov_PR32\Prakt9_Gaitov_PR32.cpp(129,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\st310-11\Documents\System\Prakt9_Gaitov_PR32\Prakt9_Gaitov_PR32\Prakt9_Gaitov_PR32.cpp(180,39): warning C4101: e: неиспользованная локальная переменная
+  Prakt9_Gaitov_PR32.vcxproj -> C:\Users\st310-11\Documents\System\Prakt9_Gaitov_PR32\x64\Debug\Prakt9_Gaitov_PR32.exe
